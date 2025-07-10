@@ -1,0 +1,4 @@
+/code               # miR-TS score generation
+/Sig                # Signature matrix for deconvolution
+/Example_data       # Publicly available dataset for testing
+/results            # expected outputs
