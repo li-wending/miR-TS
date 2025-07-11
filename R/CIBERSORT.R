@@ -3,7 +3,7 @@
 #' CIBERSORT is licensed but free of charge for non-commercial use only.
 #' Following registration, the CIBERSORT source code is available via the
 #' [cibersort website](https://cibersortx.stanford.edu/).
-#' The function in the following file is essential for
+#' The functions in the following file is essential for
 #' the successful execution of miR-TS:
 #' "CIBERSORT.R"
 
