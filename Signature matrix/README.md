@@ -1,1 +1,1 @@
-The signature matrix is key to the miR-TS
+The signature matrix of miRNAs in 23 tissue types.
