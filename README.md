@@ -15,4 +15,4 @@ muscle, nerve, pancreas, pleura, salivary_gland, skin, spleen, stomach, testis, 
 
 ## Demo Data
 
-The repository includes an example dataset of small RNA-seq data from a study of **hepatitis C** (GEO acc: GSE74872), demonstrating how to run the pipeline to obtain the miR-TS scores and how the liver miR-TS differs bewteen patients and healthy controls.
+The repository includes an example dataset of small RNA-seq data from a study of **hepatitis C** (GEO acc: GSE74872), demonstrating how to run the pipeline to obtain the miR-TS scores and how the liver miR-TS differs between patients and healthy controls.
