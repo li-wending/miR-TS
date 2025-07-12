@@ -16,7 +16,7 @@ muscle, nerve, pancreas, pleura, salivary_gland, skin, spleen, stomach, testis, 
 ## Demo Data
 
 This repository includes a demo dataset based on small RNA data from a hepatitis C study (GEO accession: GSE74872).
-It demonstrates the use of the miR-TS pipeline and shows how liver-specific miR-TS scores differ between patients and healthy controls.
+It demonstrates how to apply the miR-TS pipeline and illustrates how liver miR-TS scores varies across three groups: healthy controls, hepatitis C patients without fibrosis, and those with fibrosis.
 
 ## Citation
 
