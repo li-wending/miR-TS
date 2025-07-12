@@ -2,7 +2,7 @@
 
 ## What is miR-TS?
 
-**miR-TS**, a computational method to simultaneously estimate signals from 23 tissue types using circulating miRNAs in plasma/serum, can function as robust biomarkers of tissue health and predict the onset of a wide range of diseases.
+**miR-TS**, a computational method to simultaneously estimate signals from 23 tissue types using circulating miRNAs in plasma/serum, can track tissue health and predict the onset of a wide range of diseases.
 
 ## Input & Output
 
