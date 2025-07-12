@@ -2,7 +2,7 @@
 
 ## What is miR-TS?
 
-**miR-TS** is a computational method to estimate signals from 23 tissue types using circulating miRNAs in plasma/serum.
+**miR-TS**, a computational method to simultaneously estimate signals from 23 tissue types using circulating miRNAs in plasma/serum, can function as robust biomarkers of tissue health and predict the onset of a wide range of diseases.
 
 ## Input & Output
 
@@ -16,3 +16,7 @@ muscle, nerve, pancreas, pleura, salivary_gland, skin, spleen, stomach, testis, 
 ## Demo Data
 
 The repository includes an example dataset of small RNA-seq data from a study of **hepatitis C** (GEO acc: GSE74872), demonstrating how to run the pipeline to obtain the miR-TS scores and how the liver miR-TS differs between patients and healthy controls.
+
+## Demo Data
+
+Coming soon...
