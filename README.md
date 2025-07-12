@@ -1,14 +1,18 @@
-# miR-TS
-This repository archives the pipeline to generate the miRNA-based Tissue Signal (miR-TS) scores.
+# miRNA-Based Tissue Signal (miR-TS) scores
 
-miR-TS is designed to use plasma/serum small RNA read counts data to estimate the tissue-specific signals for 23 tissue types, including:
+## What is miR-TS?
 
- adipocyte, artery, bladder, bone, bowel, brain, esophagus, heart, kidney, liver, lung, lymph_node, muscle, nerve, pancreas, pleurae, salivary_gland, skin, spleen, stomach, testis, thyroid, vein.
+**miR-TS** is a computational method to estimate signals from 23 tissue types using circulating miRNAs in plasma/serum.
 
-The expected input is a read count matrix of miRNAs × samples, the expected output is a miR-TS score matrix of samples × tissue types.
+## Input & Output
 
-A demo example of small RNA data on hepatitic C is also included.
+- **Input:** A matrix with **miRNAs as rows** and **samples as columns**
+- **Output:** A matrix with **samples as rows** and **tissue types as columns** (miR-TS scores)
 
+## Tissue Types being estimated
+*adipocyte, artery, bladder, bone, bowel, brain, esophagus, heart, kidney, liver, lung, lymph_node,
+muscle, nerve, pancreas, pleura, salivary_gland, skin, spleen, stomach, testis, thyroid, vein*
 
-(To be added:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)].)
+## Demo Data
+
+The repository includes an example dataset of small RNA-seq data from individuals with **hepatitis C** (GEO acc: GSE74872), demonstrating how to run the pipeline.
